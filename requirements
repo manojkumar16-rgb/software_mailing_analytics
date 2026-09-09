@@ -1,0 +1,2 @@
+# Install required packages
+install.packages(c("readr", "dplyr", "ggplot2", "caret", "pROC", "rpart"))
